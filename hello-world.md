@@ -61,7 +61,7 @@ Hello **world**!
 
 ### spig.mjs
 
-The last thing is to run **Spignite**. Add the `spig.js` into the root of your project:
+The last thing is to run **Spignite**. Add the `spig.mjs` into the root of your project:
 
 {% code title="spig.mjs" %}
 ```javascript
@@ -92,7 +92,7 @@ Easy, right?
 
 ### Alternative spig.mjs syntax
 
-Above syntax focuses on operations-per-files. **Spignite** has an alternative syntax that focuses on operations-per-phases. It looks like this:
+The above syntax focuses on operations-per-files. **Spignite** has an alternative syntax that focuses on operations-per-phases. It looks like this:
 
 {% code title="spig-alt.mjs" %}
 ```javascript
